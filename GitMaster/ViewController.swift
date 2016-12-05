@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // This comment
+        // That comment
         // The other comment
     }
     
